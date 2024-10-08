@@ -44,7 +44,8 @@ Constraints
 3 <= N <= 10^4
 0 <= A[i] <= 10^6
 
-```public class Main
+```
+public class Main
 {
 	public static void main (String[] args) throws java.lang.Exception
 	{
@@ -91,4 +92,5 @@ Constraints
                 }
                 return false;
         }
-}```
+}
+```
